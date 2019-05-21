@@ -1,0 +1,44 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.kj.app",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.0.1",
+    "applicationType": "microservice",
+    "baseName": "Project1",
+    "packageName": "com.kj.app",
+    "packageFolder": "com/kj/app",
+    "serverPort": "8081",
+    "authenticationType": "oauth2",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": "elasticsearch",
+    "messageBroker": "kafka",
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": true,
+    "jwtSecretKey": "NDg1YjE4ZDgyODRlY2ZlNzgxZWZhMjY5MzBhNWU2ZWRiY2QzYWVlMDVhMmFhMjk2NTJlZDU2YWFhY2I0NmQ2N2RmZjc1N2IxYWYzMDM5YTJjZGEzZWM0YzZlNzVlNDZhYTU4MDM0YmQ0ZGQzMGJlMWJmOWQ3MWIwZTI0YzczZDc=",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "clientPackageManager": "npm",
+    "nativeLanguage": "en",
+    "languages": [
+      "en",
+      "bn",
+      "cs",
+      "fr",
+      "de"
+    ],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
